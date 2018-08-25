@@ -15,7 +15,7 @@
 .owl-nav-2 .owl-nav div,
 .bg-red,
 .b-btn{
-    background-color: #cddc39;
+    background-color: #544e66;
 }
 .dl-btn:hover,
 .footer-social li a,
@@ -23,19 +23,19 @@
 .video-box .video-icon a,
 .list-check li:before,
 .text-red{
-    color: #cddc39;
+    color: #544e66;
 }
 .b-btn:hover{
     background-color: #ff9c7f;
 }
 .video-box .video-icon{
-    border-right: 2px solid #cddc39;
+    border-right: 2px solid #544e66;
 }
 .dl-btn,
 .footer-social li a,
 .pricing-box.mid,
 .video-box .video-icon a{
-     border: 1px solid #cddc39;
+     border: 1px solid #544e66;
 }
 
 
